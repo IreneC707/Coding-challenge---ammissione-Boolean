@@ -1,0 +1,60 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 25px;
+}
+
+header,nav{
+    text-align: center;
+}
+
+.logo{
+    max-width: 200px;
+}
+
+h1{
+    color: limegreen;
+}
+
+nav{
+    background-color: limegreen;
+    padding: 10px;
+}
+
+main{
+    color: white;
+}
+
+#carica1{
+    background-color: orange;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#carica2{
+    background-color: rgb(39, 205, 39);
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#carica3{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
